@@ -1,4 +1,4 @@
-##Cloud Load Balancing overview
+## Cloud Load Balancing overview
 A load balancer distributes user traffic across multiple instances of your applications. By spreading the load, load balancing reduces the risk that your applications experience
 performance issues.
 
@@ -7,4 +7,5 @@ By using Cloud Load Balancing, you can serve content as close as possible to you
 Cloud Load Balancing is a fully distributed, software-defined managed service. It isn't hardware-based, so you don't need to manage a physical load balancing infrastructure.
 
 To know more:https://cloud.google.com/load-balancing/docs/load-balancing-overview#a_closer_look_at_cloud_load_balancers
+
 
