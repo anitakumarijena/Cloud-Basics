@@ -1,0 +1,20 @@
+##Cloud storage is a model of computer data storage in which the digital data is stored in logical pools, said to be on "the cloud". The physical storage spans multiple servers, 
+and the physical environment is typically owned and managed by a hosting company.
+
+Basically, there are four types of cloud storage solutions.
+
+1.Private Cloud Storage :Just as the name may suggest, this type of cloud storage means that the infrastructure is used by a single person or company hence high level of privacy
+                          and security.
+                          When designing the infrastructure of a private cloud, the specific needs of the company as well specific administrative controls are integrated with 
+                          the storage concerns so as to enable ease of data access and manipulation as well increase security level.
+
+2.Public Cloud Storage:In public cloud storage, data and files of an individual are located within the premises of the company offering the cloud storage services which means that
+                       as a client, you have no control over the nature of the storage infrastructure. Also the infrastructure is shared, and so are the resources used, which 
+                       means that the possibility of data hijacking and other attacks may be experienced.
+
+3.Hybrid Storage: hybrid cloud storage, both private and public cloud storagecl0uds3rv3rs infrastructures are combined and put into use with each storing different data.
+                  For instance banks could have their clients data stored in public cloud where the clients could have accounts that to enable them interact with the banking 
+                   official and then their confidential account details could be stored in private cloud.
+
+4.Community cloud storage : This is a cloud infrastructure whereby data can be accessed by different departments or organization such as different branches of a company located
+                            in different towns or in the case of government data whereby different government functionalities can access government data.
