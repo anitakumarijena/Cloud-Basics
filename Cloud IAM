@@ -1,0 +1,4 @@
+Google Cloud's Identity and Access Management (IAM) service lets you create and manage permissions for Google Cloud resources. Cloud IAM unifies access control for Google Cloud 
+services into a single system and provides a consistent set of operations.or we can say Identity and Access ManagementIAM is a cloud service that controls the permissions and 
+access for users and cloud resources. IAM policies are sets of permission policies that can be attached to either users or cloud resources to authorize what they access and 
+what they can do with it.
