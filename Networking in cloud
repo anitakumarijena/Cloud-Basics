@@ -1,0 +1,5 @@
+1.User Authentication: Identity-Aware Proxy
+
+
+
+Identity-Aware Proxy (IAP) is a Google Cloud service that intercepts web requests sent to your application, authenticates the user making the request using the Google Identity Service, and only lets the requests through if they come from a user you authorize. In addition, it can modify the request headers to include information about the authenticated user.
