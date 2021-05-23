@@ -1,0 +1,19 @@
+1.Create a GKE cluster
+ -gcloud container clusters create [CLUSTER-NAME]
+
+2.Get authentication credentials for the cluster
+  -gcloud container clusters get-credentials [CLUSTER-NAME]
+
+3.Deploy an application to the cluster
+  -kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0
+  
+  a.To create a Kubernetes Service, which is a Kubernetes resource that lets you expose your application to external traffic, run the following kubectl expose command:
+  kubectl expose deployment hello-server --type=LoadBalancer --port 8080
+  
+  b.To inspect the hello-server Service, run kubectl get:
+  kubectl get service
+  
+  c.http://[EXTERNAL-IP]:8080
+ 
+4.Deleting the cluster
+  -gcloud container clusters delete [CLUSTER-NAME]
